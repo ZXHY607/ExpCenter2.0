@@ -33,10 +33,19 @@
                 <li class="dropmenu"><a class="aa" >实验课程<span class="caret"></a>
                 	<ul>
                       <li>
-                        <a href="/030401.htm">基础实验课程</a>
+                        <a href="/030401.htm">计算机系统组装与设置</a>
                       </li>
                       <li>
-                        <a href="/030402.htm">专业实验课程</a>
+                        <a href="/030402.htm">模拟与数字电路实验</a>
+                      </li>
+                      <li>
+                        <a href="/030403.htm">计算机组织与结构实验</a>
+                      </li>
+                      <li>
+                        <a href="/030404.htm">网络综合实验</a>
+                      </li>
+                      <li>
+                        <a href="/030405.htm">大学物理实验</a>
                       </li>
                     </ul>
                 </li>

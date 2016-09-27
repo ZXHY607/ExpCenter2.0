@@ -31,5 +31,5 @@ public class Constant {
 		  
 	   }
 	   public static final String RESULT="/result.jsp",LOGIN="/login.jsp",HOME ="/home.jsp";
-	   public static final String projectTitle = "英语教学平台";
+	   public static final String projectTitle = "大连理工大学实验教学中心";
 }
